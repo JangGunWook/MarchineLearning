@@ -9,5 +9,7 @@
 
   * 머신러닝 과정
     
-    <br> ![image](https://github.com/JangGunWook/MarchineLearning/assets/119468128/8c4b3eeb-231e-49d9-b0cc-65e698e987c4)<br>
+    <br>
+    ![image](https://github.com/JangGunWook/MarchineLearning/assets/119468128/8c4b3eeb-231e-49d9-b0cc-65e698e987c4)
+    <br>
 
