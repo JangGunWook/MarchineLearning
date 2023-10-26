@@ -23,4 +23,15 @@
     <br>
     ![image](https://github.com/JangGunWook/MarchineLearning/assets/119468128/f59ea215-0987-4d08-9f1b-82aae1a88386)
     <br>
-    
+  * Label Encoding : n개의 범주형 데이터를 0부터 n-1까지의 연속적 수치 데이터로 표현하는 것이다.
+    <br>
+    ![image](https://github.com/JangGunWook/MarchineLearning/assets/119468128/fcb41d7e-f428-4c5c-86ca-570f90f782d6)
+    <br>
+  * One-hot Encoding : One-Hot Encoding은 말 그대로, 하나만 Hot 하고, 나머지는 Cold한 데이터이다.
+    <br>
+    ![image](https://github.com/JangGunWook/MarchineLearning/assets/119468128/eb8d6cdb-6a52-4558-84c4-f262d1ffb8f8)
+    <br>
+  * Cross validation :  평가 데이터 나누기를 여러번 반복하여 모델의 안정성을 높이고, 과대적합을 감소시키는 통계적 기법이다.
+    <br>
+    ![image](https://github.com/JangGunWook/MarchineLearning/assets/119468128/170db2b7-ff94-41af-8cb2-bc927ada34a5)
+    <br>
