@@ -8,5 +8,6 @@
       - 강화학습 : 지도학습과 비슷하지만 완전한 답(Label)을 제공하지 않음
 
   * 머신러닝 과정
-     ![image](https://github.com/JangGunWook/MarchineLearning/assets/119468128/8c4b3eeb-231e-49d9-b0cc-65e698e987c4)
+    
+    <br> ![image](https://github.com/JangGunWook/MarchineLearning/assets/119468128/8c4b3eeb-231e-49d9-b0cc-65e698e987c4)<br>
 
